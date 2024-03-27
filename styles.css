@@ -1,80 +1,17 @@
 body{
     color: black;
-    background-color: rgb(73, 194, 73);
+    background-color: rgb(171, 244, 171);
     font-size: 25px;
-    font-family: sans-serif;
+    font-family: sans-serif;}
+header{
+    background-color: blue;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+footer{
+    text-align: center;
+}
 
 
 
