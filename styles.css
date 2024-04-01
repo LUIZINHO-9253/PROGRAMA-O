@@ -4,7 +4,7 @@ body{
     font-size: 25px;
     font-family: sans-serif;}
 header{
-    background-color: blue;
+    background-color: rgb(23, 134, 68);
     text-align: center;
     padding: 20px;
     border-radius: 20px;
@@ -12,6 +12,6 @@ header{
 footer{
     text-align: center;
 }
-
+.imagem1{text-align: center}
 
 
